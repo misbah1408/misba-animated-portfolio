@@ -67,7 +67,7 @@ export default function NavBar() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1wlG8N6CsA7_ZVKcqhs3F8mRGPB8M59lj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1nTKQxnYhgvc1_N-O7XeUPfB6gFIGXZ0V/view?usp=drive_link"
             target="_blank"
             aria-label="Resume / CV"
             className="flex items-center"
